@@ -2,15 +2,15 @@ dataSetVersion = "2023-03-07"; // Change this when creating a new data set versi
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
-  {
+  /*{
     name: "Filter by Character Role",
     key: "role",
     tooltip: "Check this to restrict to certain character roles.",
-    checked: false,
+    checked: true,
     sub: [
       { name: "Don't check this or everyone will be removed", key: "none" },
     ]
-  },
+  },*/
   {
     name: "Filter by Series",
     key: "series",
