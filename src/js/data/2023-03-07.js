@@ -929,7 +929,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Klaus",
-    img: "XC2-Architect.PNG",
+    img: "XC2-Klaus.PNG",
     opts: {
       series: ["XC2"]
     }
