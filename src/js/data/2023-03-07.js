@@ -921,7 +921,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Klaus (XC1)",
-    img: "XC-Klaus.PNG",
+    img: "XC-Klaus.png",
     opts: {
       series: ["XC"],
       duplicate: true
