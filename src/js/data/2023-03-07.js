@@ -2,15 +2,6 @@ dataSetVersion = "2023-03-07"; // Change this when creating a new data set versi
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
-  /*{
-    name: "Filter by Character Role",
-    key: "role",
-    tooltip: "Check this to restrict to certain character roles.",
-    checked: true,
-    sub: [
-      { name: "Don't check this or everyone will be removed", key: "none" },
-    ]
-  },*/
   {
     name: "Filter by Series",
     key: "series",
@@ -1336,7 +1327,6 @@ dataSet[dataSetVersion].characterData = [
       series: ["XS"]
     }
   },
-    //XENOBLADE 3
   {
     name: "Noah",
     img: "XC3-Noah.png",
@@ -1379,7 +1369,6 @@ dataSet[dataSetVersion].characterData = [
       series: ["XC3"]
     }
   },
-    //HEROES
   {
     name: "Ethel",
     img: "XC3-Ethel.png",
@@ -1540,7 +1529,6 @@ dataSet[dataSetVersion].characterData = [
       hero: true
     }
   },
-    //HEROES DONE
   {
     name: "Mwamba",
     img: "XC3-Mwamba.png",
