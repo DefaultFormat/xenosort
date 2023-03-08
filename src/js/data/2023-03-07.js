@@ -920,6 +920,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Klaus (XC1)",
+    img: "XC-Klaus.PNG",
+    opts: {
+      series: ["XC"],
+      duplicate: true
+    }
+  },
+  {
     name: "Klaus",
     img: "XC2-Klaus.png",
     opts: {
